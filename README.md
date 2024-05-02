@@ -1,4 +1,5 @@
 # Extend-Personal-Portfolio-App-with-Expo-Image-Picker
+![image](https://github.com/gitbiruk2010/Extend-Personal-Portfolio-App-with-Expo-Image-Picker/assets/103274295/f0980355-48c8-4402-8cf0-6f19d304b78a)
 
 This is a personal portfolio app built using React Native, Expo Router, Expo Image picker, and AsyncStorage. 
 Features
