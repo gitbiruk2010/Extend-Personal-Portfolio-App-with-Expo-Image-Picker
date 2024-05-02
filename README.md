@@ -21,7 +21,7 @@ The updated profile picture and project images are saved to AsyncStorage, ensuri
 ## Installation
 Make sure you have Node.js and The Latest Expo on your machine.
 Clone the repository: 
-git clone 
+git clone https://github.com/gitbiruk2010/Extend-Personal-Portfolio-App-with-Expo-Image-Picker
 Navigate to the project directory: cd PortfolioExtApp.
 Install all the dependencies: 
 npm install
